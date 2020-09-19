@@ -1,0 +1,193 @@
+/* 1272px start  */
+@media (max-width: 1272px){
+    .work-item-1-inner:hover::after {
+        display: none;
+    }
+    .work-item-2-inner:hover::after {
+        display: none;
+    }
+    .work-item-3-inner:hover::after {
+        display: none;
+    }
+    .work-item-4-inner:hover::after {
+        display: none;
+    }
+    .work-item-5-inner:hover::after {
+        display: none;
+    }
+    .work-item-6-inner:hover::after {
+        display: none;
+    }
+    .work-item-7-inner:hover::after {
+        display: none;
+    }
+    .work-item-8-inner:hover::after {
+        display: none;
+    }
+}
+/* 1180px start  */
+@media (max-width: 1180px){
+    .work-content-right {
+        margin-top: 20px;
+    }
+    .why-choose-us-right {
+        width: 100%;
+    }
+}
+/* 988px start  */
+@media (max-width: 988px){
+    .slider-content h5 {
+        font-size: 16px;
+    }
+    .slider-content h2 {
+        font-size: 39px;
+    }
+    .why-choose-us-right-content h4 {
+        font-size: 12px;
+    }
+    .why-choose-us-right-content h2 {
+        font-size: 30px;
+    }
+    .why-choose-us-right-content p {
+        font-size: 10px;
+    }
+    .why-choose-us-right .work-bottom-item-icon span {
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 20px;
+    }
+    .why-choose-us-right .work-bottom-item-text h4 {
+        font-size: 16px;
+    }
+    .work-bottom-item-text p {
+        font-size: 12px;
+    }
+    .f-photos a::after {
+        display: none;
+    }
+    .footer-item h5 {
+        margin-top: 20px;
+    }
+}
+/* 780px start  */
+@media (max-width: 780px){
+    .slider-content h5 {
+        font-size: 14px;
+    }
+    .slider-content h2 {
+        font-size: 30px;
+    }
+    .slider-content a {
+        font-size: 12px;
+        padding: 7px 15px;
+    }
+    .slider-bottom-menu ul li a i {
+        font-size: 15px;
+        padding: 5px 15px;
+    }
+    .work-right-menu li:nth-child(1) a {
+        padding: 2px 9px;
+        font-size: 12px;
+    }
+    .work-right-menu li:nth-child(1) a::after {
+        left: 6px;
+    }
+    .work-right-menu li:nth-child(2) a {
+        padding: 2px 9px;
+        font-size: 12px;
+    }
+    .work-right-menu li:nth-child(2) a {
+        font-size: 12px;
+    }
+    .work-right-menu li:nth-child(2) a::after {
+        left: 30px;
+    }
+    .work-right-menu li:nth-child(3) a {
+        padding: 2px 9px;
+        font-size: 12px;
+    }
+    .work-right-menu li:nth-child(3) a::after {
+        left: 35px;
+    }
+    .work-right-menu li:nth-child(4) a {
+        padding: 2px 9px;
+        font-size: 12px;
+    }
+    .work-right-menu li:nth-child(4) a::after {
+        left: 19px;
+    }
+    .work-right-menu li:nth-child(5) a {
+        padding: 2px 9px;
+        font-size: 12px;
+    }
+    .work-right-menu li:nth-child(5) a::after {
+        left: 28px;
+    }
+    .work-right-menu li {
+        padding: 4px 4px;
+    }
+    .work-right-menu {
+        flex-wrap: wrap;
+    }
+    .counter-item-content h5 {
+        font-size: 10px;
+    }
+    .counter-item-content h2 {
+        font-size: 22px;
+    }
+    .counter-item-content span {
+        font-size: 20px;
+    }
+    .service-content-text h2 {
+        font-size: 23px;
+    }
+    .service-content-text p {
+        font-size: 12px;
+    }
+    .service-content span {
+        font-size: 25px;
+    }
+    .header-top {
+        position: inherit;
+    }
+}
+/* 442px start  */
+@media (max-width: 442px){
+    .slider-content h2 {
+        font-size: 25px;
+    }
+    .slider-bottom-menu {
+        display: none;
+    }
+    .pricing-item-content-price h2 {
+        font-size: 30px;
+    }
+    .pricing-table-item-content .red h2 {
+        font-size: 30px;
+    }
+    .testi-content .quote-text {
+        font-size: 12px;
+    }
+    .footer-credit-text p {
+        font-size: 12px;
+    }
+    .contact p {
+        font-size: 12px;
+    }
+    .contact h5 {
+        font-size: 14px;
+    }
+    .address p {
+        font-size: 12px;
+    }
+    .about-paragraph {
+        font-size: 14px;
+    }
+}
+/* 370px start  */
+@media (max-width: 370px){
+    .footer-credit-menu {
+        display: none;
+    }
+}
